@@ -1,6 +1,6 @@
 {
-  "version": "5.7.0",
-  "name": "Untethered",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.7.0",
-  "notes": "Atlas 5.7.0 — Untethered. See the release notes for what changed."
+  "version": "5.7.1",
+  "name": "Grounded",
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.7.1",
+  "notes": "Atlas 5.7.1 — Grounded. New icon, Feature/Bug/Crash reporting to GitHub, full Atlas rebrand, higher-contrast themes."
 }
