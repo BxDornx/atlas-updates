@@ -1,6 +1,6 @@
 {
-  "version": "5.7.12",
-  "name": "Grounded",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.7.12",
-  "notes": "Atlas 5.7.12 — Grounded. See the release notes for what changed."
+  "version": "5.8.0",
+  "name": "Waypoint",
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.8.0",
+  "notes": "Atlas 5.8.0 — Waypoint. Choose where Atlas keeps its data (and migrate it safely), a Save prompt on every export, a white composer canvas with outlined blocks, flat buttons everywhere, and diagram/banner fixes."
 }
