@@ -1,6 +1,6 @@
 {
-  "version": "5.14.0",
+  "version": "5.15.0",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.14.0",
-  "notes": "Atlas 5.14.0 — Lattice. Toolbar cleanup finished: composer inserters moved to a left Insert pane, view/pane controls to the view bar and pane menus, and Architect pane controls to the canvas right-click menu — so nothing overflows a narrow window."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.15.0",
+  "notes": "Atlas 5.15.0 — Lattice. Comments now edit in place with / and [[ support; Architect gains a Version History pane, a wrapping toolbar, calmer autosave; every panel has a Float button; divider-drag lag fixed."
 }
