@@ -1,6 +1,6 @@
 {
-  "version": "5.12.0",
+  "version": "5.12.1",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.12.0",
-  "notes": "Atlas 5.12.0 — Lattice. Slash (/) commands and [[ wiki-links in Notes, Architect labels, tasks and requirements; Notes navigator with tags and backlinks; task-from-note with a real backlink; Scan Boox removed; MCP stats and doc fixes."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.12.1",
+  "notes": "Atlas 5.12.1 — Lattice. [[ wiki-links now work in Composer: type [[ in any block and search — pick a diagram to drop in a linked diagram block, or any element/requirement/note to insert an inline reference."
 }
