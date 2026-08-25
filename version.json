@@ -1,6 +1,6 @@
 {
-  "version": "5.13.1",
+  "version": "5.14.0",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.13.1",
-  "notes": "Atlas 5.13.1 — Lattice. Fixed the blank view-mode button (a white-on-white glass flatten) and finished the toolbar cleanup: Composer ends at +Divider, Architect ends at Sel, with everything else in the native menus."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.14.0",
+  "notes": "Atlas 5.14.0 — Lattice. Toolbar cleanup finished: composer inserters moved to a left Insert pane, view/pane controls to the view bar and pane menus, and Architect pane controls to the canvas right-click menu — so nothing overflows a narrow window."
 }
