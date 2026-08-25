@@ -1,6 +1,6 @@
 {
-  "version": "5.12.1",
+  "version": "5.13.0",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.12.1",
-  "notes": "Atlas 5.12.1 — Lattice. [[ wiki-links now work in Composer: type [[ in any block and search — pick a diagram to drop in a linked diagram block, or any element/requirement/note to insert an inline reference."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.13.0",
+  "notes": "Atlas 5.13.0 — Lattice. MCP list tools return summaries with pageable get_* reads, plus search_docs/get_element/get_view; connection labels mask the line beneath them; composer toolbar trimmed to match the native menus; and reports can be exported as GitHub-ready files."
 }
