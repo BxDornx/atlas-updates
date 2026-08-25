@@ -1,6 +1,6 @@
 {
-  "version": "5.8.0",
-  "name": "Waypoint",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.8.0",
-  "notes": "Atlas 5.8.0 — Waypoint. Choose where Atlas keeps its data (and migrate it safely), a Save prompt on every export, a white composer canvas with outlined blocks, flat buttons everywhere, and diagram/banner fixes."
+  "version": "5.11.1",
+  "name": "Helm",
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.11.1",
+  "notes": "Atlas 5.11.1 — Helm. Context-adaptive native menu bar (File/Data/Export/Backup/Import), ribbon removed, MCP write tools, and readable danger buttons."
 }
