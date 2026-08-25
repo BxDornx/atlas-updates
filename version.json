@@ -1,6 +1,6 @@
 {
-  "version": "5.13.0",
+  "version": "5.13.1",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.13.0",
-  "notes": "Atlas 5.13.0 — Lattice. MCP list tools return summaries with pageable get_* reads, plus search_docs/get_element/get_view; connection labels mask the line beneath them; composer toolbar trimmed to match the native menus; and reports can be exported as GitHub-ready files."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.13.1",
+  "notes": "Atlas 5.13.1 — Lattice. Fixed the blank view-mode button (a white-on-white glass flatten) and finished the toolbar cleanup: Composer ends at +Divider, Architect ends at Sel, with everything else in the native menus."
 }
