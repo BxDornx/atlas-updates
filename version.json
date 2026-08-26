@@ -1,6 +1,6 @@
 {
-  "version": "5.19.0",
+  "version": "5.19.1",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.19.0",
-  "notes": "Atlas 5.19.0 — Lattice. Six more gentle light themes (Slate, Forest, Lavender, Rose, Sand, Sky) — nine total. Plus: diagram embeds no longer clip at the bottom, and Partial Export opens a collapsible outline picker with checkboxes."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.19.1",
+  "notes": "Atlas 5.19.1 — the partial-export picker now drills all the way down: expand any section to pick individual sub-sections, paragraphs, or diagrams for export."
 }
