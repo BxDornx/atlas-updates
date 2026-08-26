@@ -1,6 +1,6 @@
 {
-  "version": "5.16.0",
+  "version": "5.17.0",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.16.0",
-  "notes": "Atlas 5.16.0 — Lattice. [[ links in sticky notes, note-to-block arrows, note list continuation on Enter, context-dependent Architect version history, and a fix for page-local primary buttons rendering white-on-white."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.17.0",
+  "notes": "Atlas 5.17.0 — Lattice. A dual-side whiteboard (the document floats over a board with notes on either side), / commands in sticky notes, selectable/removable arrows with note-to-diagram linking, and an Enlarge Diagram zoom/pan popup."
 }
