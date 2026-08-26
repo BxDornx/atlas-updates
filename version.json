@@ -1,6 +1,6 @@
 {
-  "version": "5.22.0",
+  "version": "5.23.0",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.22.0",
-  "notes": "Atlas 5.22.0 — the MCP now covers the whole app: an AI can author documents, requirements, test cases/plans/runs, and pull reports, in addition to the Architect."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.23.0",
+  "notes": "Atlas 5.23.0 — Lattice. App-wide custom right-click menu (no more native WebKit menu), plus Notes selection formatting and add-task-from-selection (#185)."
 }
