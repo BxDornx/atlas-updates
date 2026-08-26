@@ -1,6 +1,6 @@
 {
-  "version": "5.20.5",
+  "version": "5.21.0",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.20.5",
-  "notes": "Atlas 5.20.5 — a note's tasks can now be associated with multiple blocks: pointing a note at a block ADDS its tasks there without removing them from where they were."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.21.0",
+  "notes": "Atlas 5.21.0 — the MCP now lets an AI build in the Architect: create/modify/delete diagrams, blocks, relationships, placements and stereotypes, all through the same safe layer the app uses."
 }
