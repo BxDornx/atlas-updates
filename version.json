@@ -1,6 +1,6 @@
 {
-  "version": "5.20.0",
+  "version": "5.20.1",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.20.0",
-  "notes": "Atlas 5.20.0 — Selective Export moved under Data > Export, the whiteboard now shows on BOTH sides of the document at all times, and turning a sticky note into a task (via /task) works again with proper two-way links."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.20.1",
+  "notes": "Atlas 5.20.1 — fixes sticky notes going blank when you navigate away, and /task on a note now reliably creates the linked task."
 }
