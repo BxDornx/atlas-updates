@@ -1,6 +1,6 @@
 {
-  "version": "5.20.3",
+  "version": "5.20.4",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.20.3",
-  "notes": "Atlas 5.20.3 — in task-cards mode, a note and the task it spawned are now joined by a connector line."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.20.4",
+  "notes": "Atlas 5.20.4 — removed the cluttered note-to-card line; drawing an arrow from a note to a block now moves the note's tasks onto that block."
 }
