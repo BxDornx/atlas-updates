@@ -1,6 +1,6 @@
 {
-  "version": "5.19.1",
+  "version": "5.20.0",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.19.1",
-  "notes": "Atlas 5.19.1 — the partial-export picker now drills all the way down: expand any section to pick individual sub-sections, paragraphs, or diagrams for export."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.20.0",
+  "notes": "Atlas 5.20.0 — Selective Export moved under Data > Export, the whiteboard now shows on BOTH sides of the document at all times, and turning a sticky note into a task (via /task) works again with proper two-way links."
 }
