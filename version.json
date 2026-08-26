@@ -1,6 +1,6 @@
 {
-  "version": "5.23.0",
+  "version": "5.24.0",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.23.0",
-  "notes": "Atlas 5.23.0 — Lattice. App-wide custom right-click menu (no more native WebKit menu), plus Notes selection formatting and add-task-from-selection (#185)."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.24.0",
+  "notes": "Atlas 5.24.0 — Lattice. MCP gains screenshot, export_document_markdown, and export_diagram_svg tools for AI analysis."
 }
