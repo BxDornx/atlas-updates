@@ -1,6 +1,6 @@
 {
-  "version": "5.20.4",
+  "version": "5.20.5",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.20.4",
-  "notes": "Atlas 5.20.4 — removed the cluttered note-to-card line; drawing an arrow from a note to a block now moves the note's tasks onto that block."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.20.5",
+  "notes": "Atlas 5.20.5 — a note's tasks can now be associated with multiple blocks: pointing a note at a block ADDS its tasks there without removing them from where they were."
 }
