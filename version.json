@@ -1,6 +1,6 @@
 {
-  "version": "5.20.2",
+  "version": "5.20.3",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.20.2",
-  "notes": "Atlas 5.20.2 — a task made from a sticky note now lives inside that note as a pill, instead of floating off as a separate card."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.20.3",
+  "notes": "Atlas 5.20.3 — in task-cards mode, a note and the task it spawned are now joined by a connector line."
 }
