@@ -1,6 +1,6 @@
 {
-  "version": "5.18.0",
+  "version": "5.19.0",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.18.0",
-  "notes": "Atlas 5.18.0 — Lattice. Two light hue themes: Breeze (cool blue) and Parchment (warm paper), focused on the canvas and barely touching the panes. Pick them from the theme selector in the nav."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.19.0",
+  "notes": "Atlas 5.19.0 — Lattice. Six more gentle light themes (Slate, Forest, Lavender, Rose, Sand, Sky) — nine total. Plus: diagram embeds no longer clip at the bottom, and Partial Export opens a collapsible outline picker with checkboxes."
 }
