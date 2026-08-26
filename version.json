@@ -1,6 +1,6 @@
 {
-  "version": "5.17.0",
+  "version": "5.18.0",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.17.0",
-  "notes": "Atlas 5.17.0 — Lattice. A dual-side whiteboard (the document floats over a board with notes on either side), / commands in sticky notes, selectable/removable arrows with note-to-diagram linking, and an Enlarge Diagram zoom/pan popup."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.18.0",
+  "notes": "Atlas 5.18.0 — Lattice. Two light hue themes: Breeze (cool blue) and Parchment (warm paper), focused on the canvas and barely touching the panes. Pick them from the theme selector in the nav."
 }
