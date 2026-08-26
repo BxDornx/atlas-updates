@@ -1,6 +1,6 @@
 {
-  "version": "5.24.0",
+  "version": "5.25.0",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.24.0",
-  "notes": "Atlas 5.24.0 — Lattice. MCP gains screenshot, export_document_markdown, and export_diagram_svg tools for AI analysis."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.25.0",
+  "notes": "Atlas 5.25.0 — Lattice. Granular diagram control: connector anchors, routing offsets, label positioning, and per-view element presentation — all via MCP. 68 tools total."
 }
