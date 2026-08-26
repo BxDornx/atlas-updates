@@ -1,6 +1,6 @@
 {
-  "version": "5.15.0",
+  "version": "5.16.0",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.15.0",
-  "notes": "Atlas 5.15.0 — Lattice. Comments now edit in place with / and [[ support; Architect gains a Version History pane, a wrapping toolbar, calmer autosave; every panel has a Float button; divider-drag lag fixed."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.16.0",
+  "notes": "Atlas 5.16.0 — Lattice. [[ links in sticky notes, note-to-block arrows, note list continuation on Enter, context-dependent Architect version history, and a fix for page-local primary buttons rendering white-on-white."
 }
