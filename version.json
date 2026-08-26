@@ -1,6 +1,6 @@
 {
-  "version": "5.21.0",
+  "version": "5.22.0",
   "name": "Lattice",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.21.0",
-  "notes": "Atlas 5.21.0 — the MCP now lets an AI build in the Architect: create/modify/delete diagrams, blocks, relationships, placements and stereotypes, all through the same safe layer the app uses."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v5.22.0",
+  "notes": "Atlas 5.22.0 — the MCP now covers the whole app: an AI can author documents, requirements, test cases/plans/runs, and pull reports, in addition to the Architect."
 }
