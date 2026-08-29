@@ -1,6 +1,6 @@
 {
-  "version": "7.0.0",
+  "version": "7.1.0",
   "name": "Lodestar",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v7.0.0",
-  "notes": "Atlas 7.0.0 — Lodestar. AI-first: eight new MCP intelligence tools let an agent reason about a project in one call."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v7.1.0",
+  "notes": "Atlas 7.1.0 — Lodestar. Requirements DOCX/CSV export, live Testing & Validation for specs, bulk block editing, and a drawn-on launch logo."
 }
