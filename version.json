@@ -1,6 +1,6 @@
 {
-  "version": "6.13.0",
+  "version": "6.14.0",
   "name": "Keystone",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v6.13.0",
-  "notes": "Atlas 6.13.0 — Keystone. Composer: multi-select highlight, live heading renumbering, inline table row/column editing."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v6.14.0",
+  "notes": "Atlas 6.14.0 — Keystone. Accessible theme borders and a fully green test suite."
 }
