@@ -1,6 +1,6 @@
 {
-  "version": "6.14.0",
+  "version": "6.14.1",
   "name": "Keystone",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v6.14.0",
-  "notes": "Atlas 6.14.0 — Keystone. Accessible theme borders and a fully green test suite."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v6.14.1",
+  "notes": "Atlas 6.14.1 — Keystone. Fix: connector waypoints now move with a multi-block drag."
 }
