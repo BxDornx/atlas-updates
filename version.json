@@ -1,6 +1,6 @@
 {
-  "version": "6.14.1",
+  "version": "6.14.2",
   "name": "Keystone",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v6.14.1",
-  "notes": "Atlas 6.14.1 — Keystone. Fix: connector waypoints now move with a multi-block drag."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v6.14.2",
+  "notes": "Atlas 6.14.2 — Keystone. Double-click a connection line to add a midpoint."
 }
