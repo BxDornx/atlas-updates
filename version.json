@@ -1,6 +1,6 @@
 {
-  "version": "7.1.0",
+  "version": "7.2.0",
   "name": "Lodestar",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v7.1.0",
-  "notes": "Atlas 7.1.0 — Lodestar. Requirements DOCX/CSV export, live Testing & Validation for specs, bulk block editing, and a drawn-on launch logo."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v7.2.0",
+  "notes": "Atlas 7.2.0 — Lodestar. Library (shared repository), Deployment planning with bill-of-materials rollups, Maps, and a task delete button."
 }
