@@ -1,6 +1,6 @@
 {
-  "version": "7.2.0",
+  "version": "7.3.0",
   "name": "Lodestar",
-  "url": "https://github.com/BxDornx/atlas/releases/tag/v7.2.0",
-  "notes": "Atlas 7.2.0 — Lodestar. Library (shared repository), Deployment planning with bill-of-materials rollups, Maps, and a task delete button."
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v7.3.0",
+  "notes": "Atlas 7.3.0 — Lodestar. Repeating tasks, reminders with native notifications, a habit tracker, a floating Forest-style pomodoro game, a universal export dialog with PDF, six more themes, and a loading pulse everywhere."
 }
