@@ -1,7 +1,6 @@
 {
-  "version": "8.1.0",
-  "name": "Quickdraw",
-  "url": "https://github.com/BxDornx/atlas/releases/download/v8.1.0/Atlas-8.1.0.dmg",
-  "notes": "Keyboard-first / quick-add: floating + handles and entity-aware slash in Composer; a + FAB and / kind palette (SysML kinds + task + sticky + shapes) with /command attributes in Architect; entity search in the Notes markdown slash.",
-  "pub_date": "2026-08-30"
+  "version": "8.2.1",
+  "name": "Legroom",
+  "url": "https://github.com/BxDornx/atlas/releases/tag/v8.2.1",
+  "notes": "Atlas 8.2.1 — Legroom. See the release notes for what changed."
 }
